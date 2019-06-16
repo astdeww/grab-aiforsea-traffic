@@ -28,4 +28,5 @@ The given dataset contains normalised historical demand of a city, aggregated sp
     <li>Features included: day of the week, zones, timestamp, demand from lastweek(at particular timestamp) and demand from yesterday(at particular timestamp). Detailed in the code.</li>
     <li><b>There are 3 jupyter notebooks. Please run 1_EDA.ipynb, then 2_Preprocessing.ipynb, and 3_Model.ipynb.</b></li>
     <li><b>Notebook 2_Preprocessing.ipynb will transform the given data into new csv file, which will be used in the third notebook 3_Model.ipynb</b></li>
+    <li><b>Due to file size restriction, the given dataset (training.csv) cannot be uploaded here. Please get it from here: https://s3-ap-southeast-1.amazonaws.com/grab-aiforsea-dataset/traffic-management.zip</b></li>
 </ul>
